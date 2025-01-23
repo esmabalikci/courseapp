@@ -1,0 +1,4 @@
+1-Kurs açıklamasındaki baş harfi hariç tüm karakterleri küçük harfe çevirdim.
+2-Kurs açıklaması içindeki ilk 30 karakterin sonuna "..." ekledim.
+3-Her kursun kurs adı bilgisine göre url oluşturdum.
+4-"title" isminde bir sabit oluşturup h1 etiketiyle "Popüler Kurslar" bilgisini sayfaya yazdırdım.

@@ -1,0 +1,6 @@
+1-Kategoriler numeric dizisini oluşturdum.
+2-Kurslar dizisini oluşturdum.
+3-Kategoriler dizisini alfabetik olarak sıraladım.
+4-h1 etiketinin altına "5 kategoride 10 kurs listelenmiştir" şeklinde bir yazı ekledim.
+5-Kurslar listesine yeni bir kurs ekledim.
+

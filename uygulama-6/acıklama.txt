@@ -1,0 +1,2 @@
+foreach döngüsü ile onaylı (yani onay değeri true olan) kurslar listeleniyor. 
+Her bir kurs için, görsel, başlık, alt başlık, beğeni ve yorum sayısı dinamik olarak görüntüleniyor.

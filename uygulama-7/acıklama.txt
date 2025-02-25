@@ -1,0 +1,2 @@
+1-Sıfırdan ileri seviye C programlama kursunu fonksiyon kullanarak ekledim.
+2-Kursların url adreslerini fonksiyon ile belirttim.
